@@ -26,9 +26,8 @@ h1 {
     /*height: 200px;*/
     text-align: justify;
     background-image: url("images/bg.JPG");
-	background-size: cover;
-	background-repeat: no-repeat;
-
+    flex-wrap:wrap;
+    
 }
 
 .add {
