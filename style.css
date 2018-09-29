@@ -20,7 +20,16 @@ h1 {
     width: 409px;
 }
 
+#insertvalue{
+    /*border: 1px solid black;*/
+    padding: 10px;
+    /*height: 200px;*/
+    text-align: justify;
+    background-image: url("images/bg.JPG");
+	background-size: cover;
+	background-repeat: no-repeat;
 
+}
 
 .add {
     color: #FD7272;
